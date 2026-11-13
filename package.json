@@ -1,0 +1,11 @@
+{
+  "name": "meal-manager",
+  "version": "1.0.0",
+  "description": "写真から栄養素を推定し、1日の食事管理とアドバイスを提供するアプリ",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}
